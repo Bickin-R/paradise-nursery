@@ -197,7 +197,7 @@ git commit -m "feat: complete Paradise Nursery e-commerce application for Course
 git branch -M main
 
 # Link to your newly created GitHub repository
-git remote add origin https://github.com/hariharanraj86-beep/paradise-nursery.git
+git remote add origin https://github.com/Bickin-R/paradise-nursery.git
 
 # Push code to GitHub
 git push -u origin main
@@ -207,16 +207,16 @@ git push -u origin main
 
 When submitting to Coursera, copy the direct URLs for each of the 7 files by browsing your repository on GitHub:
 
-1. Navigate to your repository: `https://github.com/hariharanraj86-beep/paradise-nursery`
+1. Navigate to your repository: `https://github.com/Bickin-R/paradise-nursery`
 2. Click on the file name.
 3. Copy the URL from your browser's address bar. The links are:
-   - **README.md**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/README.md`
-   - **AboutUs.jsx**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/src/components/AboutUs.jsx`
-   - **App.css**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/src/App.css`
-   - **App.jsx**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/src/components/App.jsx`
-   - **CartSlice.jsx**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/src/redux/CartSlice.jsx`
-   - **ProductList.jsx**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/src/components/ProductList.jsx`
-   - **CartItem.jsx**: `https://github.com/hariharanraj86-beep/paradise-nursery/blob/main/src/components/CartItem.jsx`
+   - **README.md**: `https://github.com/Bickin-R/paradise-nursery/blob/main/README.md`
+   - **AboutUs.jsx**: `https://github.com/Bickin-R/paradise-nursery/blob/main/src/components/AboutUs.jsx`
+   - **App.css**: `https://github.com/Bickin-R/paradise-nursery/blob/main/src/App.css`
+   - **App.jsx**: `https://github.com/Bickin-R/paradise-nursery/blob/main/src/components/App.jsx`
+   - **CartSlice.jsx**: `https://github.com/Bickin-R/paradise-nursery/blob/main/src/redux/CartSlice.jsx`
+   - **ProductList.jsx**: `https://github.com/Bickin-R/paradise-nursery/blob/main/src/components/ProductList.jsx`
+   - **CartItem.jsx**: `https://github.com/Bickin-R/paradise-nursery/blob/main/src/components/CartItem.jsx`
 
 ---
 
